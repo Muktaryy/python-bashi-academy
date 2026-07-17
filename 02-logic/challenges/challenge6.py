@@ -1,3 +1,5 @@
+score = int(input("Enter your score: "))
+
 if (score >=90):
     print(f"Score: {score}")
     print(f"Grade: A")
