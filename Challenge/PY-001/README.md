@@ -1,6 +1,6 @@
 # PY-001 — Employee Information
 
-## Objective
+## Objective 
 
 Create a Python program that stores and displays basic employee information.
 
