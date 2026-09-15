@@ -2,7 +2,7 @@
 
 > My journey to becoming a Python developer.
  
-## 🎓 Learning Source
+## 🎓 Learning Source 
 
 *Currently learning Python through Bashi Academy.*
 
